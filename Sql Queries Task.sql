@@ -1,3 +1,5 @@
+--ALL SQL TASK FROM 1 -7
+
 --task 1
 SELECT category.name AS category_title, COUNT(film.film_id) AS film_count
 FROM film
